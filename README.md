@@ -1,5 +1,5 @@
 # imooc
-Imooc Git学习
+慕课网 Git学习
 Git
 
 	什么是Git?
@@ -29,5 +29,5 @@ Git
 		分支管理：
 			git branch --> git checkout --> git merge
 		标签管理：
-			ggit tag --> git push
+			git tag --> git push
 笔记在更新...
